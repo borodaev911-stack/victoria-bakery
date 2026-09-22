@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+output/
+.playwright-cli/
+
+# Local reference materials and planning documents
+materials/
+PRODUCT.md
+DESIGN.md
+ТЗ — Виктория.md
+DEPLOYMENT.md
