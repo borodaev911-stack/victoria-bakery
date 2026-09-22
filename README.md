@@ -16,6 +16,8 @@ npm run build
 npm run preview
 ```
 
+Локальный просмотр production-сборки: http://127.0.0.1:4173/victoria-bakery/.
+
 Готовая статическая сборка находится в `dist/`. GitHub Actions публикует сборку на GitHub Pages при обновлении ветки `main`. Адрес: https://borodaev911-stack.github.io/victoria-bakery/.
 
 ## Контент
